@@ -1,7 +1,10 @@
 # 2023학년도 2학기 프로그래밍 클러스터 강의 학습자료
 
 [개발 환경 설정](https://github.com/Goodgaym/202302PthCluster/blob/master/Week00_Installation/_Contents.md)  
-[1주차 내용](https://github.com/Goodgaym/202302PthCluster/blob/master/Week01_CandC++/_Contents.md)
+[1주차 내용](https://github.com/Goodgaym/202302PthCluster/blob/master/Week01_CandC++/_Contents.md)   
+[2주차 내용](https://github.com/Goodgaym/202302PthCluster/blob/master/Week02_DynamicMAlloc/_Contents.md)   
+[3주차 내용](https://github.com/Goodgaym/202302PthCluster/blob/master/Week03_Class/_Contents.md)   
+
 <br/><br/><br/>
 
 - - - 
