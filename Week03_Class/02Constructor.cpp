@@ -1,4 +1,5 @@
-// Written with encoding UTF-8
+// Encoding : UTF-8
+// Author : Junhyun Park
 #include <iostream>
 #include <string>
 

@@ -1,4 +1,4 @@
-// Written with encoding UTF-8
+// Encoding : UTF-8
 #include <iostream>
 #include <string>
 
