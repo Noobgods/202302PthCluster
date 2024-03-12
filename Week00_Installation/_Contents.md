@@ -56,7 +56,7 @@ C/C++: Edit Configurations(UI) 검색하고 선택
 
 - 설정화면   
 
-<img src="./_img/01_Configurations.PNG" width=900 title="MinGW" alt="MinGW"></img>   
+<img src="./_img/01_Configurations.png" width=900 title="MinGW" alt="MinGW"></img>   
 
 <br/>
 
